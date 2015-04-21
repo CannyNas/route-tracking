@@ -1,0 +1,105 @@
+
+.top
+{
+      color:black;
+      font-size:30px;
+      text-align:center;
+      padding-left:10px;
+      padding-bottom:1px;
+      margin-bottom:0;
+      height:37px;
+      font-weight:bold;
+}
+
+.top-panel
+{
+      background-color:#ccc;
+      width:98%;
+      height:450px;
+      float:left;
+      border:8px;
+      border-style: solid;
+      border-color: gray;
+}
+
+.bottom-panel
+{
+      background-color:#ccc;
+      width:97.5%;
+      height:100px;
+      float:left;
+      border-radius:25px;
+      margin-top:15px;
+      padding-left:20px;
+      padding-top:4px;
+}
+
+.active
+{
+      border:1px;
+      border-style:solid;
+      border-color:#ccc #ccc #000000 #ccc;
+      width:1250px;
+      font-weight:bold;
+}
+
+.box1
+{
+      border: 2px solid gray;
+      width: 395px;
+      margin-top:3px;
+}
+
+.route1
+{
+      float:left;
+      margin-right:2px;
+      margin-top:2px;
+      font-weight:bold;
+      padding-right:5px;
+}
+
+.circle1
+{
+      margin-left:10px;
+      margin-top:4px;
+      border:1px solid rgb(81, 66, 66);
+      display:inline-block;
+      border-radius:10px;
+      width:11px;
+      height:11px;
+      color:gray;
+      background-color:gray;
+      padding-top:2px;
+      padding-right:2px;
+}
+
+.box2
+{
+      border:2px solid gray;
+      width:410px;
+      margin-top:6px;
+}
+
+.route2
+{
+      float:left;
+      margin-right:10px;
+      margin-top:2px;
+      font-weight:bold;
+}
+
+.circle2
+{
+      margin-left:10px;
+      margin-top:4px;
+      border:1px solid rgb(81, 66, 66);
+      display:inline-block;
+      border-radius:10px;
+      width:11px;
+      height:11px;
+      color:gray;
+      background-color:gray;
+      padding-top:2px;
+      padding-right:2px;
+}
