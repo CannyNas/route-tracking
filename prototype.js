@@ -1,6 +1,6 @@
 L.mapbox.accessToken = 'pk.eyJ1IjoibmFzaXItMTQyNSIsImEiOiJDd3BsWE1zIn0.N3Q9iu6yZ9DLMEaIJFIXJA';
 var map = L.mapbox.map('map', 'nasir-1425.lmddb8dk')
-          .setView([37.82677954095475, -122.24126815795897], 12);
+          .setView([37.82677954095475, -122.24126815795897], 11);
 
  var currentLayer = null;
  var myLayer = L.mapbox.featureLayer();
